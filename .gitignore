@@ -32,3 +32,10 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# TestDriver.ai
+.env
+node_modules/
+test-results/
+*.log
+_app/
